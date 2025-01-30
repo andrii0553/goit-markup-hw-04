@@ -447,7 +447,7 @@ justify-content: center;
 /*---------------footer---------------*/
 .page-footer{
    background: #2E2F42;
-   padding: 100px 0;
+   padding: 100px 0 100px 156px;
 
 
 }
@@ -464,10 +464,11 @@ justify-content: center;
    display: flex;
    align-items: baseline;
    
+   
 } 
 
 .footer-box-logo{
-   margin-left: 156px;
+  
    margin-right: 120px;   
 }
 
